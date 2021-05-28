@@ -1,0 +1,3 @@
+on fs
+    mkdir /dev/block/platform/mtk-msdc.0
+    symlink ../soc/11230000.mmc /dev/block/platform/mtk-msdc.0/11230000.MSDC0
