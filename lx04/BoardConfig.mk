@@ -113,5 +113,4 @@ TWRP_INCLUDE_LOGCAT := true
 # TARGET_GLOBAL_CFLAGS += -mfpu=neon -mfloat-abi=softfp
 # TARGET_GLOBAL_CPPFLAGS += -mfpu=neon -mfloat-abi=softfp
 ALLOW_MISSING_DEPENDENCIES := true
-BOARD_KERNEL_IMAGE_NAME := kernel
 TARGET_PREBUILT_KERNEL := device/xiaomi/lx04/kernel
